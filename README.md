@@ -1,2 +1,3 @@
-# Gestion-d-une-biblioth-que
-Mini-Projet: Gestion d’une bibliothèque
+# LU2IN006_MiniProjet2
+
+LU2IN006 : Structures de données
